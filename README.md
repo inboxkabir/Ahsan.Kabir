@@ -1,7 +1,7 @@
 # Ahsan.Kabir
 # 👋 Hi, I'm Ahsan Kabir  
 
-🎓 **Assistant Professor** | 💻 **AI Entrepreneur** | 🏆 **7x Microsoft MVP**  
+🎓 **Assistant Professor** | 💻 **AI Entrepreneur** | 🏆 **10x Microsoft MVP**  
 
 📍 **Location:** Moghbazar, Dhaka, Bangladesh  
 📧 **Email:** [inbox.kabir@hotmail.com](mailto:inbox.kabir@hotmail.com)  
